@@ -1,4 +1,4 @@
-# Stealth-X Obfuscator Gen3.2
+# Stealth-X Obfuscator Gen3.6
 
 Stealth-X is a Lua and Luau obfuscator for Roblox scripts. Choose a preset, paste your source code, then copy or download the result from the web app.
 
